@@ -1,0 +1,227 @@
+"Continent ID","Continent","Country ID","Country","ISO 3","Section ID","Section","HS2 ID","HS2","HS4 ID","HS4","Trade Value"
+"af","Africa","afago","Angola","ago",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",17723995586
+"af","Africa","afbdi","Burundi","bdi",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",90481705.99999999
+"af","Africa","afben","Benin","ben",11,"Textiles",1152,"Cotton",115201,"Raw Cotton",451860006
+"af","Africa","afbfa","Burkina Faso","bfa",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",7185232734
+"af","Africa","afbwa","Botswana","bwa",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147102,"Diamonds",4004115692
+"af","Africa","afcaf","Central African Republic","caf",9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94403,"Rough Wood",51872834
+"af","Africa","afciv","Cote d'Ivoire","civ",4,"Foodstuffs",418,"Cocoa and cocoa preparations",41801,"Cocoa Beans",3515650914
+"af","Africa","afcmr","Cameroon","cmr",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",1462174909
+"af","Africa","afcod","Democratic Republic of the Congo","cod",15,"Metals",1574,"Copper and articles thereof",157403,"Refined Copper",11065551710
+"af","Africa","afcog","Republic of the Congo","cog",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",3566570248
+"af","Africa","afcom","Comoros","com",2,"Vegetable Products",209,"Coffee, tea, mate and spices",20907,"Cloves",21316933
+"af","Africa","afcpv","Cape Verde","cpv",4,"Foodstuffs",416,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates",41604,"Processed Fish",35953926
+"af","Africa","afdji","Djibouti","dji",6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62827,"Chlorides",45904087.00000001
+"af","Africa","afdza","Algeria","dza",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52711,"Petroleum Gas",6997749590
+"af","Africa","afegy","Egypt","egy",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52710,"Refined Petroleum",3401646782
+"af","Africa","aferi","Eritrea","eri",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",264737967
+"af","Africa","afeth","Ethiopia","eth",2,"Vegetable Products",209,"Coffee, tea, mate and spices",20901,"Coffee",860477197
+"af","Africa","afgab","Gabon","gab",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",2357009077
+"af","Africa","afgha","Ghana","gha",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",5934895903
+"af","Africa","afgin","Guinea","gin",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",8189597672
+"af","Africa","afgmb","Gambia","gmb",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",214926591
+"af","Africa","afgnb","Guinea-Bissau","gnb",2,"Vegetable Products",208,"Fruit and nuts, edible; peel of citrus fruit or melons",20801,"Coconuts, Brazil Nuts, and Cashews",129505221
+"af","Africa","afgnq","Equatorial Guinea","gnq",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",1925985627
+"af","Africa","afken","Kenya","ken",2,"Vegetable Products",209,"Coffee, tea, mate and spices",20902,"Tea",1198509158
+"af","Africa","aflbr","Liberia","lbr",5,"Mineral Products",526,"Ores, slag and ash",52601,"Iron Ore",321949320
+"af","Africa","aflby","Libya","lby",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",5459550656
+"af","Africa","aflso","Lesotho","lso",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147102,"Diamonds",386725947
+"af","Africa","afmar","Morocco","mar",17,"Transportation",1787,"Vehicles and their parts",178703,"Cars",3787425382
+"af","Africa","afmdg","Madagascar","mdg",2,"Vegetable Products",209,"Coffee, tea, mate and spices",20905,"Vanilla",538975310
+"af","Africa","afmli","Mali","mli",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",4740516305
+"af","Africa","afmoz","Mozambique","moz",15,"Metals",1576,"Aluminium and articles thereof",157601,"Raw Aluminium",1380127600
+"af","Africa","afmrt","Mauritania","mrt",5,"Mineral Products",526,"Ores, slag and ash",52601,"Iron Ore",1330374154
+"af","Africa","afmus","Mauritius","mus",4,"Foodstuffs",416,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates",41604,"Processed Fish",244375560
+"af","Africa","afmwi","Malawi","mwi",4,"Foodstuffs",424,"Tobacco and manufactured tobacco substitutes",42401,"Raw Tobacco",488162345
+"af","Africa","afnam","Namibia","nam",15,"Metals",1574,"Copper and articles thereof",157402,"Raw Copper",1369880695
+"af","Africa","afner","Niger","ner",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",1766990798
+"af","Africa","afnga","Nigeria","nga",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",29970258368
+"af","Africa","afrwa","Rwanda","rwa",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",644404629
+"af","Africa","afsdn","Sudan","sdn",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",1842784290
+"af","Africa","afsen","Senegal","sen",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",752739254
+"af","Africa","afshn","Saint Helena","shn",1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10306,"Crustaceans",8193579
+"af","Africa","afsle","Sierra Leone","sle",5,"Mineral Products",526,"Ores, slag and ash",52614,"Titanium Ore",157654690
+"af","Africa","afsom","Somalia","som",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",110739786
+"af","Africa","afssd","South Sudan","ssd",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",701183903
+"af","Africa","afstp","Sao Tome and Principe","stp",16,"Machines",1684,"Machinery and appliances",168411,"Gas Turbines",8770454
+"af","Africa","afswz","Eswatini","swz",6,"Chemical Products",633,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",63302,"Scented Mixtures",530234843.00000006
+"af","Africa","afsyc","Seychelles","syc",17,"Transportation",1789,"Ships, boats and floating structures",178903,"Recreational Boats",444823911
+"af","Africa","aftcd","Chad","tcd",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",1185834758
+"af","Africa","aftgo","Togo","tgo",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52710,"Refined Petroleum",239613563
+"af","Africa","aftun","Tunisia","tun",16,"Machines",1685,"Electrical machinery and equipment",168544,"Insulated Wire",1834606479
+"af","Africa","aftza","Tanzania","tza",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",2361188034
+"af","Africa","afuga","Uganda","uga",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",3469684265
+"af","Africa","afzaf","South Africa","zaf",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",13011189481
+"af","Africa","afzmb","Zambia","zmb",15,"Metals",1574,"Copper and articles thereof",157402,"Raw Copper",5765031382
+"af","Africa","afzwe","Zimbabwe","zwe",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",2138525606
+"an","Antarctica","anatf","French South Antarctic Territory","atf",1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10303,"Non-fillet Frozen Fish",15637688
+"as","Asia","asafg","Afghanistan","afg",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",542008205
+"as","Asia","asare","United Arab Emirates","are",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",42031702338
+"as","Asia","asarm","Armenia","arm",5,"Mineral Products",526,"Ores, slag and ash",52603,"Copper Ore",739255206
+"as","Asia","asaze","Azerbaijan","aze",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",9298702892
+"as","Asia","asbgd","Bangladesh","bgd",11,"Textiles",1162,"Non-knit or crocheted apparel and clothing accessories",116203,"Non-Knit Men's Suits",5745046899
+"as","Asia","asbhr","Bahrain","bhr",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52710,"Refined Petroleum",3194823505
+"as","Asia","asbrn","Brunei","brn",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52711,"Petroleum Gas",2376725473
+"as","Asia","asbtn","Bhutan","btn",15,"Metals",1572,"Iron and steel",157202,"Ferroalloys",103946484
+"as","Asia","ascck","Cocos (Keeling) Islands","cck",20,"Miscellaneous",2095,"Toys and games",209504,"Video and Card Games",594873
+"as","Asia","aschn","China","chn",16,"Machines",1685,"Electrical machinery and equipment",168525,"Broadcasting Equipment",223451521487
+"as","Asia","ascxr","Christmas Island","cxr",6,"Chemical Products",631,"Fertilizers",63105,"Mixed Mineral or Chemical Fertilizers",6771733
+"as","Asia","ascyp","Cyprus","cyp",17,"Transportation",1789,"Ships, boats and floating structures",178901,"Passenger and Cargo Ships",874530692
+"as","Asia","asgeo","Georgia","geo",5,"Mineral Products",526,"Ores, slag and ash",52603,"Copper Ore",827660191
+"as","Asia","ashkg","Hong Kong","hkg",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",32974901929
+"as","Asia","asidn","Indonesia","idn",3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31511,"Palm Oil",17860869377
+"as","Asia","asind","India","ind",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52710,"Refined Petroleum",25335605702
+"as","Asia","asiot","British Indian Ocean Territory","iot",1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10303,"Non-fillet Frozen Fish",6052163
+"as","Asia","asirn","Iran","irn",7,"Plastics and Rubbers",739,"Plastics and articles thereof",73901,"Ethylene Polymers",2171552106
+"as","Asia","asirq","Iraq","irq",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",45150703543
+"as","Asia","asisr","Israel","isr",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147102,"Diamonds",5768573168
+"as","Asia","asjor","Jordan","jor",6,"Chemical Products",631,"Fertilizers",63104,"Potassic Fertilizers",982407492
+"as","Asia","asjpn","Japan","jpn",17,"Transportation",1787,"Vehicles and their parts",178703,"Cars",83131868696
+"as","Asia","askaz","Kazakhstan","kaz",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",25241261466
+"as","Asia","askgz","Kyrgyzstan","kgz",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",1862450953
+"as","Asia","askhm","Cambodia","khm",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",5247038771
+"as","Asia","askor","South Korea","kor",16,"Machines",1685,"Electrical machinery and equipment",168542,"Integrated Circuits",89083995362
+"as","Asia","askwt","Kuwait","kwt",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",27617215350
+"as","Asia","aslao","Laos","lao",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52716,"Electricity",1925281739
+"as","Asia","aslbn","Lebanon","lbn",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",1051829496.9999999
+"as","Asia","aslka","Sri Lanka","lka",2,"Vegetable Products",209,"Coffee, tea, mate and spices",20902,"Tea",1273793575
+"as","Asia","asmac","Macau","mac",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147113,"Jewellery",173926306
+"as","Asia","asmdv","Maldives","mdv",1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10303,"Non-fillet Frozen Fish",67632012
+"as","Asia","asmmr","Myanmar","mmr",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52711,"Petroleum Gas",2987286487
+"as","Asia","asmng","Mongolia","mng",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",2689846927
+"as","Asia","asmys","Malaysia","mys",16,"Machines",1685,"Electrical machinery and equipment",168542,"Integrated Circuits",64956884248
+"as","Asia","asnpl","Nepal","npl",3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31507,"Soybean Oil",197982470
+"as","Asia","asomn","Oman","omn",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",13286121132
+"as","Asia","aspak","Pakistan","pak",11,"Textiles",1163,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",116302,"House Linens",3610570485
+"as","Asia","asphl","Philippines","phl",16,"Machines",1685,"Electrical machinery and equipment",168542,"Integrated Circuits",22568891481
+"as","Asia","asprk","North Korea","prk",16,"Machines",1685,"Electrical machinery and equipment",168546,"Electrical Insulators",17499314
+"as","Asia","aspse","Palestine","pse",13,"Stone And Glass",1368,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",136802,"Building Stone",146209453
+"as","Asia","asqat","Qatar","qat",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52711,"Petroleum Gas",22214731238
+"as","Asia","assau","Saudi Arabia","sau",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",95694454134
+"as","Asia","assgp","Singapore","sgp",16,"Machines",1685,"Electrical machinery and equipment",168542,"Integrated Circuits",62675314723
+"as","Asia","assyr","Syria","syr",3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31509,"Pure Olive Oil",121978308.00000001
+"as","Asia","astha","Thailand","tha",16,"Machines",1684,"Machinery and appliances",168473,"Office Machine Parts",17153407173
+"as","Asia","astjk","Tajikistan","tjk",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",780034018.0000001
+"as","Asia","astkm","Turkmenistan","tkm",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52711,"Petroleum Gas",5309237600
+"as","Asia","astls","Timor-Leste","tls",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",63186198
+"as","Asia","astur","Turkey","tur",17,"Transportation",1787,"Vehicles and their parts",178703,"Cars",10120476057
+"as","Asia","asuzb","Uzbekistan","uzb",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",6516434223
+"as","Asia","asvnm","Vietnam","vnm",16,"Machines",1685,"Electrical machinery and equipment",168525,"Broadcasting Equipment",41955897512
+"as","Asia","asxxb","Chinese Taipei",,16,"Machines",1685,"Electrical machinery and equipment",168542,"Integrated Circuits",138324787711
+"as","Asia","asyem","Yemen","yem",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",682068028
+"eu","Europe","eualb","Albania","alb",12,"Footwear and Headwear",1264,"Footwear; gaiters and the like; parts of such articles",126403,"Leather Footwear",261823176
+"eu","Europe","euand","Andorra","and",16,"Machines",1685,"Electrical machinery and equipment",168542,"Integrated Circuits",22008951
+"eu","Europe","euaut","Austria","aut",17,"Transportation",1787,"Vehicles and their parts",178703,"Cars",7015984559
+"eu","Europe","eubel","Belgium","bel",17,"Transportation",1787,"Vehicles and their parts",178703,"Cars",21913417415
+"eu","Europe","eubgr","Bulgaria","bgr",15,"Metals",1574,"Copper and articles thereof",157403,"Refined Copper",1195655525
+"eu","Europe","eubih","Bosnia and Herzegovina","bih",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52716,"Electricity",351992172
+"eu","Europe","eublr","Belarus","blr",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52710,"Refined Petroleum",2777600844
+"eu","Europe","euche","Switzerland","che",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",68523222693
+"eu","Europe","eucze","Czechia","cze",17,"Transportation",1787,"Vehicles and their parts",178703,"Cars",20795769922
+"eu","Europe","eudeu","Germany","deu",17,"Transportation",1787,"Vehicles and their parts",178703,"Cars",122571765992
+"eu","Europe","eudnk","Denmark","dnk",6,"Chemical Products",630,"Pharmaceutical products",63004,"Packaged Medicaments",14531777924
+"eu","Europe","euesp","Spain","esp",17,"Transportation",1787,"Vehicles and their parts",178703,"Cars",32042659028
+"eu","Europe","euest","Estonia","est",16,"Machines",1685,"Electrical machinery and equipment",168525,"Broadcasting Equipment",1198365431
+"eu","Europe","eufin","Finland","fin",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52710,"Refined Petroleum",3948400237
+"eu","Europe","eufra","France","fra",6,"Chemical Products",630,"Pharmaceutical products",63004,"Packaged Medicaments",27884619270
+"eu","Europe","eugbr","United Kingdom","gbr",17,"Transportation",1787,"Vehicles and their parts",178703,"Cars",27054294965
+"eu","Europe","eugib","Gibraltar","gib",17,"Transportation",1787,"Vehicles and their parts",178703,"Cars",69514807
+"eu","Europe","eugrc","Greece","grc",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52710,"Refined Petroleum",6876024222
+"eu","Europe","euhrv","Croatia","hrv",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",753598930
+"eu","Europe","euhun","Hungary","hun",17,"Transportation",1787,"Vehicles and their parts",178703,"Cars",11488671371
+"eu","Europe","euirl","Ireland","irl",6,"Chemical Products",630,"Pharmaceutical products",63002,"Blood, antisera, vaccines, toxins and cultures",33017868453
+"eu","Europe","euisl","Iceland","isl",15,"Metals",1576,"Aluminium and articles thereof",157601,"Raw Aluminium",1738251242
+"eu","Europe","euita","Italy","ita",6,"Chemical Products",630,"Pharmaceutical products",63004,"Packaged Medicaments",26735640206
+"eu","Europe","eultu","Lithuania","ltu",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52710,"Refined Petroleum",1850637821
+"eu","Europe","eulux","Luxembourg","lux",15,"Metals",1572,"Iron and steel",157216,"Iron Blocks",820621833
+"eu","Europe","eulva","Latvia","lva",16,"Machines",1685,"Electrical machinery and equipment",168525,"Broadcasting Equipment",793729290
+"eu","Europe","eumda","Moldova","mda",16,"Machines",1685,"Electrical machinery and equipment",168544,"Insulated Wire",444867442
+"eu","Europe","eumkd","North Macedonia","mkd",6,"Chemical Products",638,"Chemical products n.e.s.",63815,"Reaction and Catalytic Products",1400271689
+"eu","Europe","eumlt","Malta","mlt",16,"Machines",1685,"Electrical machinery and equipment",168542,"Integrated Circuits",679117180
+"eu","Europe","eumne","Montenegro","mne",15,"Metals",1576,"Aluminium and articles thereof",157601,"Raw Aluminium",65200565
+"eu","Europe","eunld","Netherlands","nld",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52710,"Refined Petroleum",29673478704
+"eu","Europe","eunor","Norway","nor",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",22560381145
+"eu","Europe","eupol","Poland","pol",17,"Transportation",1787,"Vehicles and their parts",178708,"Vehicle Parts",12439347065
+"eu","Europe","euprt","Portugal","prt",17,"Transportation",1787,"Vehicles and their parts",178703,"Cars",3771913852
+"eu","Europe","eurou","Romania","rou",17,"Transportation",1787,"Vehicles and their parts",178708,"Vehicle Parts",6069149954
+"eu","Europe","eurus","Russia","rus",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",74437222024
+"eu","Europe","eusmr","San Marino","smr",16,"Machines",1684,"Machinery and appliances",168422,"Washing and Bottling Machines",45044593
+"eu","Europe","eusrb","Serbia","srb",16,"Machines",1685,"Electrical machinery and equipment",168544,"Insulated Wire",1423293287
+"eu","Europe","eusvk","Slovakia","svk",17,"Transportation",1787,"Vehicles and their parts",178703,"Cars",24776735183
+"eu","Europe","eusvn","Slovenia","svn",6,"Chemical Products",630,"Pharmaceutical products",63004,"Packaged Medicaments",6106045979
+"eu","Europe","euswe","Sweden","swe",17,"Transportation",1787,"Vehicles and their parts",178703,"Cars",11062651445
+"eu","Europe","euukr","Ukraine","ukr",3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31512,"Seed Oils",5324219522
+"na","North America","naabw","Aruba","abw",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",72783254
+"na","North America","naaia","Anguilla","aia",6,"Chemical Products",630,"Pharmaceutical products",63004,"Packaged Medicaments",15086155
+"na","North America","naatg","Antigua and Barbuda","atg",17,"Transportation",1789,"Ships, boats and floating structures",178901,"Passenger and Cargo Ships",97938537.00000001
+"na","North America","nabes","Bonaire","bes",5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52501,"Salt",3908298
+"na","North America","nabhs","Bahamas","bhs",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52710,"Refined Petroleum",338994112
+"na","North America","nablm","Saint Barthélemy","blm",6,"Chemical Products",633,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",63304,"Beauty Products",869078
+"na","North America","nablz","Belize","blz",17,"Transportation",1789,"Ships, boats and floating structures",178903,"Recreational Boats",101457326.00000001
+"na","North America","nabmu","Bermuda","bmu",17,"Transportation",1789,"Ships, boats and floating structures",178903,"Recreational Boats",200128563.99999997
+"na","North America","nabrb","Barbados","brb",4,"Foodstuffs",422,"Beverages, spirits and vinegar",42208,"Hard Liquor",48661688
+"na","North America","nacan","Canada","can",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",47176448406
+"na","North America","nacri","Costa Rica","cri",18,"Instruments",1890,"Instruments and apparatus",189018,"Medical Instruments",3270583565
+"na","North America","nacub","Cuba","cub",4,"Foodstuffs",424,"Tobacco and manufactured tobacco substitutes",42402,"Rolled Tobacco",266512256
+"na","North America","nacuw","Curaçao","cuw",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52710,"Refined Petroleum",49935794
+"na","North America","nacym","Cayman Islands","cym",17,"Transportation",1789,"Ships, boats and floating structures",178903,"Recreational Boats",1822436588
+"na","North America","nadma","Dominica","dma",18,"Instruments",1890,"Instruments and apparatus",189018,"Medical Instruments",5564519
+"na","North America","nadom","Dominican Republic","dom",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",1770268666
+"na","North America","nagrd","Grenada","grd",2,"Vegetable Products",209,"Coffee, tea, mate and spices",20908,"Nutmeg, mace and cardamons",6116800
+"na","North America","nagrl","Greenland","grl",1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10306,"Crustaceans",480297566
+"na","North America","nagtm","Guatemala","gtm",2,"Vegetable Products",208,"Fruit and nuts, edible; peel of citrus fruit or melons",20803,"Bananas",1155011121
+"na","North America","nahnd","Honduras","hnd",11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",116109,"Knit T-shirts",1044824582
+"na","North America","nahti","Haiti","hti",11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",116109,"Knit T-shirts",372966268
+"na","North America","najam","Jamaica","jam",6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62818,"Aluminium Oxide",496237065
+"na","North America","nakna","Saint Kitts and Nevis","kna",16,"Machines",1685,"Electrical machinery and equipment",168536,"Low-voltage Protection Equipment",15918576.000000002
+"na","North America","nalca","Saint Lucia","lca",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52710,"Refined Petroleum",6287039
+"na","North America","namaf","Saint Martin","maf",15,"Metals",1572,"Iron and steel",157204,"Scrap Iron",1538824.0000000002
+"na","North America","namex","Mexico","mex",17,"Transportation",1787,"Vehicles and their parts",178703,"Cars",41632018074
+"na","North America","namsr","Montserrat","msr",11,"Textiles",1162,"Non-knit or crocheted apparel and clothing accessories",116210,"Felt or Coated Fabric Garments",1683473
+"na","North America","nanic","Nicaragua","nic",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",827728661
+"na","North America","napan","Panama","pan",5,"Mineral Products",526,"Ores, slag and ash",52603,"Copper Ore",1054906169
+"na","North America","naslv","El Salvador","slv",11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",116109,"Knit T-shirts",573391587
+"na","North America","naspm","Saint Pierre and Miquelon","spm",4,"Foodstuffs",416,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates",41605,"Processed Crustaceans",4267288
+"na","North America","natca","Turks and Caicos Islands","tca",1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10306,"Crustaceans",1337350
+"na","North America","natto","Trinidad and Tobago","tto",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52711,"Petroleum Gas",2136875128
+"na","North America","nausa","United States","usa",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52710,"Refined Petroleum",58381616035
+"na","North America","navct","Saint Vincent and the Grenadines","vct",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52711,"Petroleum Gas",54184567
+"na","North America","navgb","British Virgin Islands","vgb",17,"Transportation",1789,"Ships, boats and floating structures",178903,"Recreational Boats",634052469
+"oc","Oceania","ocasm","American Samoa","asm",4,"Foodstuffs",423,"Food industries, residues and wastes thereof; prepared animal fodder",42301,"Animal Meal and Pellets",11946899
+"oc","Oceania","ocaus","Australia","aus",5,"Mineral Products",526,"Ores, slag and ash",52601,"Iron Ore",79583366512
+"oc","Oceania","occok","Cook Islands","cok",1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10303,"Non-fillet Frozen Fish",15600881
+"oc","Oceania","ocfji","Fiji","fji",4,"Foodstuffs",422,"Beverages, spirits and vinegar",42201,"Water",126803737
+"oc","Oceania","ocfsm","Micronesia","fsm",1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10303,"Non-fillet Frozen Fish",115978232
+"oc","Oceania","ocgum","Guam","gum",18,"Instruments",1891,"Clocks and watches",189102,"Base Metal Watches",8484052
+"oc","Oceania","ockir","Kiribati","kir",1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10303,"Non-fillet Frozen Fish",85882078
+"oc","Oceania","ocmhl","Marshall Islands","mhl",17,"Transportation",1789,"Ships, boats and floating structures",178901,"Passenger and Cargo Ships",314312687
+"oc","Oceania","ocmnp","Northern Mariana Islands","mnp",18,"Instruments",1891,"Clocks and watches",189102,"Base Metal Watches",2750879
+"oc","Oceania","ocncl","New Caledonia","ncl",15,"Metals",1572,"Iron and steel",157202,"Ferroalloys",824906514
+"oc","Oceania","ocnfk","Norfolk Island","nfk",9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94403,"Rough Wood",351879
+"oc","Oceania","ocniu","Niue","niu",17,"Transportation",1789,"Ships, boats and floating structures",178901,"Passenger and Cargo Ships",71969487.00000001
+"oc","Oceania","ocnru","Nauru","nru",1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10303,"Non-fillet Frozen Fish",82477279
+"oc","Oceania","ocnzl","New Zealand","nzl",1,"Animal Products",104,"Dairy products and other edible products of animal origin",10402,"Concentrated Milk",5920643022
+"oc","Oceania","ocpcn","Pitcairn Islands","pcn",4,"Foodstuffs",419,"Preparations of cereals, flour, starch or milk; pastrycooks' products",41905,"Baked Goods",495354
+"oc","Oceania","ocplw","Palau","plw",17,"Transportation",1789,"Ships, boats and floating structures",178908,"Scrap Vessels",7790385.999999999
+"oc","Oceania","ocpng","Papua New Guinea","png",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52711,"Petroleum Gas",2947783618.9999995
+"oc","Oceania","ocpyf","French Polynesia","pyf",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147101,"Pearls",32603858
+"oc","Oceania","ocslb","Solomon Islands","slb",9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94403,"Rough Wood",310187271.00000006
+"oc","Oceania","octkl","Tokelau","tkl",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147106,"Silver",16887625
+"oc","Oceania","octon","Tonga","ton",4,"Foodstuffs",420,"Preparations of vegetables, fruit, nuts or other parts of plants",42008,"Other Processed Fruits and Nuts",1570961
+"oc","Oceania","octuv","Tuvalu","tuv",1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10303,"Non-fillet Frozen Fish",10363126
+"oc","Oceania","ocvut","Vanuatu","vut",1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10303,"Non-fillet Frozen Fish",113671717
+"oc","Oceania","ocwlf","Wallis and Futuna","wlf",16,"Machines",1685,"Electrical machinery and equipment",168518,"Microphones and Headphones",692076
+"oc","Oceania","ocwsm","Samoa","wsm",17,"Transportation",1787,"Vehicles and their parts",178710,"Armored vehicles",17568615
+"sa","South America","saarg","Argentina","arg",4,"Foodstuffs",423,"Food industries, residues and wastes thereof; prepared animal fodder",42304,"Soybean Meal",7894605992
+"sa","South America","sabol","Bolivia","bol",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52711,"Petroleum Gas",2024809637
+"sa","South America","sabra","Brazil","bra",2,"Vegetable Products",212,"Oil seeds and oleaginous fruits",21201,"Soybeans",28640124492
+"sa","South America","sachl","Chile","chl",5,"Mineral Products",526,"Ores, slag and ash",52603,"Copper Ore",21399231030
+"sa","South America","sacol","Colombia","col",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",7461426736
+"sa","South America","saecu","Ecuador","ecu",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",4943599047
+"sa","South America","saflk","Falkland Islands","flk",1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10307,"Molluscs",240959548
+"sa","South America","saguy","Guyana","guy",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",1167721976
+"sa","South America","saper","Peru","per",5,"Mineral Products",526,"Ores, slag and ash",52603,"Copper Ore",9226700218
+"sa","South America","sapry","Paraguay","pry",2,"Vegetable Products",212,"Oil seeds and oleaginous fruits",21201,"Soybeans",2153157292
+"sa","South America","sasur","Suriname","sur",14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",2003211920
+"sa","South America","saury","Uruguay","ury",1,"Animal Products",102,"Meat and edible meat offal",10202,"Frozen Bovine Meat",1255805422.0000002
+"sa","South America","saven","Venezuela","ven",5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",2615803275
